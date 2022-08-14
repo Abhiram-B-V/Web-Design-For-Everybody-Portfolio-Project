@@ -1,0 +1,26 @@
+Description and changes.
+
+I made this site using a template by the name of Verticard Template from
+https://templatemo.com/tm-533-verticard.
+
+I've downloaded the template and edited many parts of its code. 
+The changes I've made are :
+1. Addition of a new page called "projects"
+2. Removing the form from the "Contact" page and adding a link to my linkedIn profile.
+3. Modifying an already given page ( given by templatemo when i downloaded the template ) into a page by the name
+of "Travel" and editing its contents to my liking.
+4. Changing the content in all pages according to my content blueprint.
+5. Edited some of the css code to get precise results.
+
+Images in the "Extras" page come with a design where a text appears on them when a mouse hovers on them.
+
+Validations.
+
+There are a total of 2 warnings at the end of all the validation results. 
+They do not interfere with any of the site's workings and all the pages work perfectly fine in both mobile and 
+laptop/desktop view.
+
+The { Extras }.
+
+There's a sticky footer and a carousel in my site.
+
